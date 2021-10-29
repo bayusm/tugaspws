@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="daftar_kelas">
+        <item>MOBILE 1</item>
+        <item>MOBILE 2</item>
+        <item>MOBILE 3</item>
+    </string-array>
+</resources>
